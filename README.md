@@ -1,6 +1,8 @@
-Hey there!  
 
-If you’ve stumbled upon this repository, it means you’re curious — or maybe just nosy like us devs. Either way, welcome!  
+It’s a warm Friday evening, and your favorite dev team has decided to unwind after a long week of coding.  
+They’ve found a cozy spot by the lake, cocktails in hand, watching the sun dip below the horizon. The water glimmers, the sky reflects in hues of orange and pink, and laughter carries across the shore.  
+
+You snap a photo — the scene looks perfect, almost like a postcard. But something about it feels… curious. Perhaps the lake remembers more than just the reflections of the sky. Maybe there’s a story hidden in the colors and angles, waiting for someone to notice.  
 
 We like to unwind after a long week of coding, usually with cocktails by the lake. Somewhere around here, we left a trail for anyone who’s paying attention.  
 
@@ -10,7 +12,7 @@ We like to unwind after a long week of coding, usually with cocktails by the lak
    - Sometimes pictures hold more than just visuals.  
 
 2. **Once you know the lake…**  
-   - There’s a particular bar we like, right by the water.  
+   - There’s a particular café/bar we like, right by the water.  
    - Its name flows like water. Think about the hints in the name.
 
 3. **Final Step:**  
