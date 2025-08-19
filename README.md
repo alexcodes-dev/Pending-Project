@@ -14,8 +14,13 @@ We like to unwind after a long week of coding, usually with cocktails by the lak
 2. **Once you know the lake…**  
    - There’s a particular café/bar we like, right by the water.  
    - Its name flows like water. Think about the hints in the name.
-
-3. **Final Step:**  
+     
+3. **What to look for:**  
+   - Cocktails at sunset  
+   - Lakeside view  
+   - Something in the name that suggests water
+     
+4. **Final Step:**  
    - Search for cafés/bars around the lake using the hints above.  
    - When you find the right one, you’ll know the flag.  
    - Flag format: `flag{Name_With_Underscores}`
