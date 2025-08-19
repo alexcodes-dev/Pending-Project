@@ -9,7 +9,7 @@ We like to unwind after a long week of coding, usually with cocktails by the lak
 ## Clues to Find the Spot
 
 1. **Look closely at the image you have.**  
-   - Sometimes pictures hold more than just visuals.  
+   - Sometimes pictures hold more than just visuals.  (P.S. Download the image to see the entirety of it properly at once)
 
 2. **Once you know the lake…**  
    - There’s a particular café/bar we like, right by the water.  
