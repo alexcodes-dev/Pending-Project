@@ -1,5 +1,3 @@
-# Lake Bar Project Notes
-
 Hey there!  
 
 If you’ve stumbled upon this repository, it means you’re curious — or maybe just nosy like us devs. Either way, welcome!  
